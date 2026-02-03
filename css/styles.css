@@ -314,6 +314,9 @@ a {
   stroke: #f4f4fd;
   fill: #f4f4fd;
 }
+.icon {
+  fill: #f4f4fd;
+}
 .icon-link:hover,
 .icon-link:focus {
   background-color: #404bbf;
